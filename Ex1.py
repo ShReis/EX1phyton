@@ -1,5 +1,3 @@
-Masculino = []
-Feminino = []
 
 
 maior_altura = 0.0
